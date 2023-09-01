@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dbabs629
-- 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning React, Node and always more and more JavaScipt
-- 💞️ I’m looking to collaborate on a job, I looking to grow with a team
+- 👀 I’m a full stack developer
+- 🌱 I’m currently learning TypeScript and improving my knowledge of Node.js
+- 💞️ I’m looking to collaborate on a job & interested joining a team
 - 📫 How to reach me checkout my portfolio website or through Linkedin
 
 <!---
